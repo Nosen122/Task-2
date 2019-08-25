@@ -1,0 +1,82 @@
+<!Doctype html>
+<head>
+   <title> Nosen Otaigbe Resume
+   </title>
+</head>
+
+<body>
+<h1> Ikhianosen Beverly Otaigbe </h1>
+<p> Plot 946 Waziri Ibrahim Crescent, Gudu, Apo Abuja </p>
+<p> 07037820156 </p>
+<p><img src="https://res.cloudinary.com/dtl105ufu/image/upload/v1566766032/IMG-20190825-WA0016_1_wnvvqs.jpg
+"alt="author"</p>
+
+<h2> Objective</h2>
+
+<p> A Passionate Engineer with over 4 years of Administrative experience,
+Goal-oriented and professional, loves to learn. I aim to build my career  in Engineering and technology, contribute
+through my skills, to the development and advancement of my team & organization. </p>
+
+<h2> Competences and Skills </h2>
+
+<u1> 
+ <li>Proven ability to work with a team</li>
+ <li>Ability to maintain confidentiality and professionalism</li>
+ <li>Positive working attitude</li>
+ <li>Analytical and logical thinker</li>
+ <li>Computer Literacy</li>
+         <ol>
+ 		<li>Proficiency in Microsoft Office Applications</li>
+ 		<li>Proficiency in Autocad</li>
+ 		<li>Proficiency in ERP</li>
+ 		<li>Basic knowledge in Html</li>
+	</ol>
+
+<h2> Professional Experience </h2>
+
+<table>
+  <tr>
+      <td>Assistant Manager</td>
+      <td>Central Bank of Nigeria</td>
+      <td>August 2018 - Present</td>
+  </tr>
+
+  <tr>
+      <td>Senior Supervisor</td>
+      <td>Central Bank of Nigeria</td>
+      <td>November 2014 - August 2018</td>
+  </tr>
+		
+  <tr>
+      <td>National Youth Service</td>
+      <td>Julius Berger Nigeria Plc</td>
+      <td>July 2013 - June 2014</td>
+  </tr> 
+
+  <tr>
+      <td>Industrial Trainee</td>
+      <td>Power Holding Company of Nig</td>
+      <td>September 2011 - February 2012</td>
+  </tr> 
+</table>
+
+<h2> Education </h2>
+
+<h5>B.ENG ELECTRICAL/ELECTRONICS ENGINEERING, 2012</h5>
+<p>Ambrose Alli University, Ekpoma, Edo State</p>
+
+
+<h5>SENIOR SECONDARY SCHOOL CERTIFICATE, 2007</h5>
+<p>University Preparatory Secondary School</p>
+
+
+<h5>Understanding Renewable Energy (YALINETWORK)   - February 2018</h5>
+
+<h5>Incorporating Renewable Energy in Electricity Grids (EdX) - February 2019</h5>
+
+<h2>Referees</h2>
+<p>Referees are available upon request</p>
+
+
+</body>
+</html>
